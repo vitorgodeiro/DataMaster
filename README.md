@@ -1,2 +1,2 @@
 # DataMaster
-Repositório Contendo a Solução do problema Santander Customer Satisfaction para o programa Data Master
+Repositório Contendo a Solução do problema Santander Customer Satisfaction para o programa Data Master - Cientista de Dados
